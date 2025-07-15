@@ -38,14 +38,11 @@ DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
 | **File Converter API** | Flask, Node, Puppeteer | DOCX/PPTX/TXT/HTML → PDF at scale |
 
 
----
 
 ## 🎓 Education
 | Degree | Institution | Year |
 | ------ | ----------- | ---- |
 | B.C.A. | Christ University, Bangalore | 2020 – 2023 |
-
----
 
 
 ### 📫 Reach Me
