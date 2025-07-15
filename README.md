@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm <strong>Sankalp Nayak</strong> 👋</h1>
 
 <p align="center">
-DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
+DevOps Engineer & Full-Stack Developer • AWS | Kubernetes | Terraform
 </p>
 
 ---
@@ -11,43 +11,43 @@ DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
 - Obsessed with cost-efficient infrastructure, observability, and developer experience.
 
 ### 🛠️ Tech Stack
-  <summary><strong>Cloud & Orchestration</strong></summary>
+    <summary><strong>Cloud & Orchestration</strong></summary>
 
-  | Domain | Tools |
-  | ------ | ----- |
-  | **Cloud Platforms** | AWS · GCP · DigitalOcean |
-  | **Containers / K8s** | Docker · Kubernetes · Helm |
-  | **IaC & GitOps** | Terraform · Argo CD |
-
-
-
-  <summary><strong>CI/CD & Automation</strong></summary>
-
-  | Domain | Tools |
-  | --- | --- |
-  | **Pipelines** | Jenkins · GitHub Actions · GitLab CI |
-  | **Observability** | Prometheus · Grafana · Loki · CloudWatch |
+    | Domain | Tools |
+    | ------ | ----- |
+    | **Cloud Platforms** | AWS · GCP · DigitalOcean |
+    | **Containers / K8s** | Docker · Kubernetes · Helm |
+    | **IaC & GitOps** | Terraform · Argo CD |
 
 
 
-  <summary><strong>Languages & Frameworks</strong></summary>
+    <summary><strong>CI/CD & Automation</strong></summary>
 
-  | Domain | Tools |
-  | --- | --- |  
-  | **Back-end** | Python · Node.js · Flask | 
-  | **Front-end** | Vue.js  
-  | **Scripting** | Bash | 
-  | **Web** | HTML / CSS / JavaScript |
+    | Domain | Tools |
+    | --- | --- |
+    | **Pipelines** | Jenkins · GitHub Actions · GitLab CI |
+    | **Observability** | Prometheus · Grafana · Loki · CloudWatch |
 
 
 
-  <summary><strong>Databases & Messaging</strong></summary>
+    <summary><strong>Languages & Frameworks</strong></summary>
 
-  MongoDB · PostgreSQL · MySQL · Redis · RabbitMQ
+    | Domain | Tools |
+    | --- | --- |  
+    | **Back-end** | Python · Node.js · Flask | 
+    | **Front-end** | Vue.js  
+    | **Scripting** | Bash | 
+    | **Web** | HTML / CSS / JavaScript |
 
-  <summary><strong>Security & Networking</strong></summary>
 
-  WireGuard VPN · Nginx · Cloudflare · SSL/TLS Hardening
+
+    <summary><strong>Databases & Messaging</strong></summary>
+
+    MongoDB · PostgreSQL · MySQL · Redis · RabbitMQ
+
+    <summary><strong>Security & Networking</strong></summary>
+
+    WireGuard VPN · Nginx · Cloudflare · SSL/TLS Hardening
 
 ### 💼 Experience
 | Role | Period | Highlights |
