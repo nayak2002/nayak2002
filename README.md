@@ -69,7 +69,7 @@ DevOps Engineer & Full-Stack Developer • AWS | Kubernetes | Terraform
 **AWS Cloud Foundations Bootcamp — St. Francis Xavier College (2023):** Led a week-long, hands-on workshop for **20 +** final-year B.Tech students, covering AWS fundamentals through real-life demos, interactive labs and quizzes. Guided attendees to earn the **AWS Academy Cloud Foundations** certification and earned enthusiastic feedback from participants.
 
 
-## 🎓 Education
+### 🎓 Education
 | Degree | Institution | Year |
 | ------ | ----------- | ---- |
 | B.C.A. | Christ University, Bangalore | 2020 – 2023 |
