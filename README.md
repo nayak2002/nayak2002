@@ -39,4 +39,7 @@ DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
 
 
 ### 📫 Reach Me
+<p align="left">
+<a href="https://linkedin.com/in/nayak-sankalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayak-sankalp" height="30" width="40" /></a>
+</p>
 [LinkedIn](https://linkedin.com/in/nayak-sankalp) • sankalpnayak2002@gmail.com
