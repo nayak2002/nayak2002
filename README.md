@@ -11,7 +11,7 @@ DevOps Engineer & Full-Stack Developer • AWS | Kubernetes | Terraform
 - Obsessed with cost-efficient infrastructure, observability, and developer experience.
 
 ### 🛠️ Tech Stack
-    <summary><strong>Cloud & Orchestration</strong></summary>
+-   <summary><strong>Cloud & Orchestration</strong></summary>
 
     | Domain | Tools |
     | ------ | ----- |
