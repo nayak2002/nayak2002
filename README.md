@@ -52,9 +52,10 @@ DevOps Engineer & Full-Stack Developer • AWS | Kubernetes | Terraform
 ### 💼 Experience
 | Role | Period | Highlights |
 | ---- | ------ | ---------- |
-| **DevOps Tech Lead** – Hire3x | Sept 2024 → Present | • Autoscaling 1 → 10 EC2 nodes under load • IaC with Terraform • Multi-env Kubernetes |
-| **DevOps Engineer / Full-Stack Developer** – Hire3x | Oct 2023 → Sept 2024 | • DO → AWS EKS migration with zero downtime • Release cycle −50 % via Jenkins + ArgoCD |
-| **Software Developer** – Hire3x | Jan 2023 → Oct 2023 | • WebRTC video-conferencing app • Universal file-converter micro-service |
+| **DevOps Engineer** – **ZET** | May 2025 → Present | EKS high-availability (Spot + Karpenter) • Pod start 42 s ➜ 14 s • 48 h patch SLA • 18 % cost cut • Zero-trust IRSA • Zero findings in AWS Ops Review |
+| **DevOps Tech Lead** – Hire3x | Sept 2024 → May 2025 | Autoscaled 1 → 10 nodes • Terraform IaC • Multi-env Kubernetes |
+| **DevOps Engineer / Full-Stack Dev** – Hire3x | Oct 2023 → Sept 2024 | DO ➜ AWS EKS migration • Release cycle −50 % |
+| **Software Developer** – Hire3x | Jan 2023 → Oct 2023 | WebRTC video app • File-converter micro-service |
 
 ### 🔧 Projects
 | Name | Stack | What I did |
