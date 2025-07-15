@@ -7,21 +7,47 @@ DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
 ---
 
 ### 🚀 About Me
-- DevOps engineer with **2 + years** building & operating cloud-native systems across AWS, GCP and DigitalOcean.  
-- Leading DevOps at <b>Hire3x</b>—automating CI/CD with Jenkins + ArgoCD, hardening security, and scaling Kubernetes from 1 → 10 nodes on-demand.  
+- DevOps engineer with **3 + years** building & operating cloud-native systems across AWS, GCP and DigitalOcean.   
 - Obsessed with cost-efficient infrastructure, observability, and developer experience.
 
 ### 🛠️ Tech Stack
-| Domain | Tools |
-| ------ | ----- |
-| **Cloud** | AWS, GCP, DigitalOcean |
-| **Containers** | Docker, Kubernetes |
-| **IaC & GitOps** | Terraform, Helm, ArgoCD |
-| **CI/CD** | Jenkins, GitLab CI, GitHub Actions |
-| **Monitoring** | Prometheus, Loki, Grafana, CloudWatch |
-| **Languages** | Python, Node.js, Vue.js |
-| **Security** | Wireguard, Nginx, Cloudflare |
-| **Databases** | MongoDB → Atlas |
+  <summary><strong>Cloud & Orchestration</strong></summary>
+
+  | Domain | Tools |
+  | ------ | ----- |
+  | **Cloud Platforms** | AWS · GCP · DigitalOcean |
+  | **Containers / K8s** | Docker · Kubernetes · Helm |
+  | **IaC & GitOps** | Terraform · Argo CD |
+
+
+
+  <summary><strong>CI/CD & Automation</strong></summary>
+
+  | Domain | Tools |
+  | --- | --- |
+  | **Pipelines** | Jenkins · GitHub Actions · GitLab CI |
+  | **Observability** | Prometheus · Grafana · Loki · CloudWatch |
+
+
+
+  <summary><strong>Languages & Frameworks</strong></summary>
+
+  | Domain | Tools |
+  | --- | --- |  
+  | **Back-end** | Python · Node.js · Flask | 
+  | **Front-end** | Vue.js  
+  | **Scripting** | Bash | 
+  | **Web** | HTML / CSS / JavaScript |
+
+
+
+  <summary><strong>Databases & Messaging</strong></summary>
+
+  MongoDB · PostgreSQL · MySQL · Redis · RabbitMQ
+
+  <summary><strong>Security & Networking</strong></summary>
+
+  WireGuard VPN · Nginx · Cloudflare · SSL/TLS Hardening
 
 ### 💼 Experience
 | Role | Period | Highlights |
