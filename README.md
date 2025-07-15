@@ -38,6 +38,16 @@ DevOps Tech Lead & Full-Stack Developer • AWS | Kubernetes | Terraform
 | **File Converter API** | Flask, Node, Puppeteer | DOCX/PPTX/TXT/HTML → PDF at scale |
 
 
+---
+
+## 🎓 Education
+| Degree | Institution | Year |
+| ------ | ----------- | ---- |
+| B.C.A. | Christ University, Bangalore | 2020 – 2023 |
+
+---
+
+
 ### 📫 Reach Me
 <p align="left">
 <a href="https://linkedin.com/in/nayak-sankalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayak-sankalp" height="30" width="40" /></a>
