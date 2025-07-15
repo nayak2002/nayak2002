@@ -65,6 +65,9 @@ DevOps Engineer & Full-Stack Developer • AWS | Kubernetes | Terraform
 | **File Converter API** | Flask, Node, Puppeteer | DOCX/PPTX/TXT/HTML → PDF at scale |
 
 
+### 🧑‍🏫 Training & Mentoring
+**AWS Cloud Foundations Bootcamp — St. Francis Xavier College (2023):** Led a week-long, hands-on workshop for **20 +** final-year B.Tech students, covering AWS fundamentals through real-life demos, interactive labs and quizzes. Guided attendees to earn the **AWS Academy Cloud Foundations** certification and earned enthusiastic feedback from participants.
+
 
 ## 🎓 Education
 | Degree | Institution | Year |
